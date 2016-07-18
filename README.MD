@@ -1,2 +1,3 @@
 # DLooge.com
-The source code of http://dlooge.github.com
+The source code of http://dlooge.github.io
+
