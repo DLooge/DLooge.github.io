@@ -1117,6 +1117,7 @@ img {
   vertical-align: middle;
 }
 .img-responsive,
+.img-center {margin:0 auto;}
 .thumbnail > img,
 .thumbnail a > img,
 .carousel-inner > .item > img,
