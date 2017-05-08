@@ -402,3 +402,11 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+.img-responsive {
+max-width: 90%; /* or to whatever you want here */
+max-height: auto; /* or to whatever you want here */
+}
+.img-responsive-small {
+max-width: 50%; /* or to whatever you want here */
+max-height: auto; /* or to whatever you want here */
+}
