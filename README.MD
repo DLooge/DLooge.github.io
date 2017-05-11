@@ -9,4 +9,6 @@ docker run --rm -v `pwd`/DLooge.github.io:/site -p 4000:4000 andredumas/github-p
 ```
 Then open your browser to `localhost:4000`
 
+### Helful links
 
+* [Jekyll](https://jekyllrb.com/docs/pages/)
